@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/css/main.b57d5bf6.css",
+    "main.js": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/js/main.41177d72.js",
+    "static/js/787.b66e7712.chunk.js": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/js/787.b66e7712.chunk.js",
+    "index.html": "/KJA960-ANNAKIM/react-tictactoc-deploy/index.html",
+    "main.b57d5bf6.css.map": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/css/main.b57d5bf6.css.map",
+    "main.41177d72.js.map": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/js/main.41177d72.js.map",
+    "787.b66e7712.chunk.js.map": "/KJA960-ANNAKIM/react-tictactoc-deploy/static/js/787.b66e7712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b57d5bf6.css",
+    "static/js/main.41177d72.js"
+  ]
+}
